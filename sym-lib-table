@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "doragasu")(type "KiCad")(uri "${KIPRJMOD}/doragasu-kicad-lib/doragasu.kicad_sym")(options "")(descr ""))
+  (lib (name "MCU_RaspberryPi_and_Boards")(type "Legacy")(uri "${KIPRJMOD}/KiCad-RP-Pico/RP-Pico Libraries/MCU_RaspberryPi_and_Boards.lib")(options "")(descr ""))
+)

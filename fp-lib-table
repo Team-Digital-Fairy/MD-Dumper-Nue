@@ -1,0 +1,6 @@
+(fp_lib_table
+  (lib (name "doragasu-footprints")(type "KiCad")(uri "${KIPRJMOD}/doragasu-kicad-lib/doragasu-footprints")(options "")(descr ""))
+  (lib (name "MCU_RaspberryPi_and_Boards")(type "KiCad")(uri "${KIPRJMOD}/KiCad-RP-Pico/RP-Pico Libraries/MCU_RaspberryPi_and_Boards.pretty")(options "")(descr ""))
+  (lib (name "Library")(type "KiCad")(uri "${KIPRJMOD}/conversion-pcbs/Library.pretty")(options "")(descr ""))
+  (lib (name "Conversion-PCB")(type "KiCad")(uri "${KIPRJMOD}/conversion-pcbs/Conversion-PCB.pretty")(options "")(descr ""))
+)
